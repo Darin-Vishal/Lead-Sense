@@ -1,0 +1,202 @@
+lead_id,created_at,raw_text,label
+1,2025-11-01,"Hi, we want CRM integration and can start next month. Budget around $20k.",1
+2,2025-10-28,"Looking for a lightweight helpdesk for our startup. Budget under $2k. Demo?",0
+3,2025-10-15,"We need an enterprise solution for sales enablement. Ready to purchase in 2 weeks. Budget $50k+.",1
+4,2025-09-30,"Can you share pricing for social media campaigns? We are small.",0
+5,2025-10-22,"We have a tender for supply chain software. Need quote and timeline. Decision-maker here.",1
+6,2025-09-20,"Interested in cloud migration services. Timeline 3-6 months. Need estimates.",0
+7,2025-11-03,"We want to automate onboarding; can we integrate with our API? Budget $15k.",1
+8,2025-10-05,"Looking for training for 20 employees. Share course curriculum and cost.",0
+9,2025-11-02,"Requesting quotation for 200 units of industrial pump XRT-500.",0
+10,2025-10-12,"Just exploring options for a website. Not urgent.",0
+11,2025-09-18,"We need a demo of your CRM. Decision-maker will attend. Budget ~ $30k.",1
+12,2025-08-25,"Can you tell me about integrations? We are evaluating vendors.",0
+13,2025-07-11,"Looking for SSO + SCIM support. We have 500 employees. Budget $40k.",1
+14,2025-06-30,"We need better ticket routing. Is your tool customizable?",0
+15,2025-06-15,"Urgent: we had an outage. Need a solution ASAP. Can you send pricing?",1
+16,2025-05-22,"What are your monthly prices? We are a small marketing team.",0
+17,2025-05-03,"Interested in a pilot for 3 months with 50 seats. Budget approved.",1
+18,2025-04-18,"Just browsing—send me more info when available.",0
+19,2025-04-01,"We are switching vendors next quarter. Need migration plan and quote.",1
+20,2025-03-20,"Can you integrate with HubSpot? We have moderate budget.",0
+21,2025-03-05,"We need audit logs and compliance features. Budget $25k.",1
+22,2025-02-28,"Looking for employee onboarding tool. What integrations do you offer?",0
+23,2025-02-14,"Ready to buy if SLA and support meet enterprise standards. Budget flexible.",1
+24,2025-01-30,"We want to test your chat widget for a month. Who can help set up?",0
+25,2025-01-10,"We have a $60k budget for a new CRM and want a proposal next week.",1
+26,2025-11-04,"Do you offer discounts for NGOs? We are nonprofit.",0
+27,2025-10-29,"Can we get single-sign-on and analytics? Planning for Q1 rollout.",1
+28,2025-10-20,"Curious about pricing tiers. No timeline yet.",0
+29,2025-10-18,"We need lead scoring and routing at scale. Interested in a demo.",1
+30,2025-09-27,"Small team, limited budget, looking for recommendations.",0
+31,2025-09-10,"We require custom reports and dedicated onboarding. Budget approved.",1
+32,2025-08-02,"Would like to see a sandbox. Possible pilot for 30 days.",0
+33,2025-07-22,"Our company of 800 needs enterprise SSO and audit. Urgent procurement.",1
+34,2025-06-05,"Are there annual contracts only? We prefer monthly.",0
+35,2025-05-29,"We need integrations with Snowflake and BigQuery. Budget $35k.",1
+36,2025-05-11,"Testing multiple vendors. Not ready for purchase.",0
+37,2025-04-25,"We want an RFP response for onboarding automation. Please send details.",1
+38,2025-04-10,"Exploring affordable CRM options for 5 users.",0
+39,2025-03-01,"Security first—do you have SOC2? Budget set for Q2.",1
+40,2025-02-12,"Looking for content calendar tool. Low priority.",0
+41,2025-01-25,"We want to trial lead enrichment API for 60 days. Budget small.",0
+42,2025-11-06,"We are consolidating tools; need pricing and migration for 200 users.",1
+43,2025-10-30,"Need a procurement-ready quote, we have $45k budget.",1
+44,2025-10-21,"Interested in employee feedback tool. Send demo link.",0
+45,2025-10-10,"We plan to launch a pilot in 6 weeks and need vendor support.",1
+46,2025-09-02,"Sending cold inquiry—no budget yet.",0
+47,2025-08-18,"We want custom SLAs and onboarding. Decision-maker will review.",1
+48,2025-07-30,"Can your tool integrate with our payroll? Unsure.",0
+49,2025-07-14,"We need multi-tenant support for a SaaS rollout. Budget allocated.",1
+50,2025-06-27,"We are evaluating your case studies. Might pilot later.",0
+51,2025-06-09,"We need to replace our CRM in 30 days. Budget $80k available.",1
+52,2025-05-23,"Would like pricing for 100 seats. No immediate buy.",0
+53,2025-05-05,"Need migration and data import services. Decision on budget next week.",1
+54,2025-04-16,"Looking for a free trial to test features. Low priority.",0
+55,2025-03-28,"We need an enterprise contract and custom integrations. Ready to proceed.",1
+56,2025-03-10,"Small project inquiry, maybe later this year.",0
+57,2025-02-22,"We need analytics + user tracking. Budget confirmed.",1
+58,2025-01-14,"Curious about help center features. Not an immediate need.",0
+59,2025-11-07,"We can commit to an annual plan for $100k. Need proposal and SLA.",1
+60,2025-10-31,"Looking for an EMR integration—this could be large. Time-sensitive.",1
+61,2025-10-23,"Just researching vendors—no budget.",0
+62,2025-10-11,"We need lead enrichment + scoring ASAP. Budget allocated.",1
+63,2025-09-25,"Do you offer setup services? We'll discuss later.",0
+64,2025-09-08,"Security audit needed. Interested if you provide SOC2 and encryption.",1
+65,2025-08-04,"Possible integration with our product for a pilot. Not committed.",0
+66,2025-07-28,"Can we schedule a demo next week? Decision-maker will join.",1
+67,2025-07-09,"We want volume discounts for marketing suite. Low timeline.",0
+68,2025-06-21,"We require API access and SSO. Budget set at $30k.",1
+69,2025-06-03,"Exploring options for internal tooling. No purchase intent yet.",0
+70,2025-05-18,"We are consolidating multiple tools; procurement next month.",1
+71,2025-05-02,"Requesting pricing for beta program. Might evaluate.",0
+72,2025-04-06,"We need enterprise features and SLAs. Budget approved.",1
+73,2025-03-15,"Looking for recruitment software demos. Not urgent.",0
+74,2025-02-05,"Testing providers for future purchase. No immediate buy.",0
+75,2025-01-08,"Budget approved for new sales stack. Need vendor quotes.",1
+76,2025-11-08,"We require GDPR-compliant data handling. Ready to move quickly.",1
+77,2025-10-26,"Interested in user research features. Low budget.",0
+78,2025-10-14,"We need a solution for enterprise single-tenant deployments. Budget $70k.",1
+79,2025-09-19,"Can your product handle 10k monthly active users? We're evaluating.",0
+80,2025-08-10,"We need campaign reporting. Will budget next quarter.",0
+81,2025-07-01,"We need to replace our ticketing system. Pilot next month; budget available.",1
+82,2025-06-12,"Looking for roadmap collaboration tools. Not high priority.",0
+83,2025-05-27,"We want enterprise onboarding and integration. Decision-maker signing off.",1
+84,2025-04-30,"Question about scalability. No timeline defined.",0
+85,2025-04-12,"Ready to pilot with 50 users for 90 days. Budget allocated.",1
+86,2025-03-02,"Interested in community portal features. Later this year.",0
+87,2025-02-18,"We need multi-region support and SLA. Procurement in 2 weeks.",1
+88,2025-01-20,"Casual inquiry—looking for free tier options.",0
+89,2025-11-09,"We want to integrate with Salesforce and start immediately. Large budget.",1
+90,2025-10-27,"Looking for vendor to handle compliance and monitoring. Budget unconfirmed.",0
+91,2025-10-19,"We need a quote for 150 seats. Decision scheduled next week.",1
+92,2025-09-11,"Just testing features for possible future use.",0
+93,2025-08-14,"We need custom features for enterprise. Budget available.",1
+94,2025-07-17,"We need payroll integration. Not urgent.",0
+95,2025-06-01,"We are ready to schedule vendor calls this week. Budget confirmed.",1
+96,2025-05-10,"Curious about integrations. No budget yet.",0
+97,2025-04-22,"We need data residency options. Looking to purchase Q4.",1
+98,2025-03-12,"Exploratory message—no timelines.",0
+99,2025-02-02,"We want enterprise analytics and custom reporting. Decision-maker engaged.",1
+100,2025-01-05,"Looking for pricing for internal tools. Maybe later.",0
+101,2025-11-10,"We have board approval for a new CRM. Need proposal and timeline.",1
+102,2025-10-25,"We need technical due diligence before committing. Can you provide docs?",0
+103,2025-10-16,"We want to automate routing and scoring. Budget available for PoC.",1
+104,2025-09-23,"Trial request for 10 seats. Not sure about budget.",0
+105,2025-08-08,"We require enterprise SLAs and migration assistance. Ready to sign.",1
+106,2025-07-24,"Just collecting information for planning. No commitment.",0
+107,2025-06-18,"Urgent RFP—can you respond with pricing and timeline?",1
+108,2025-05-28,"Interested in self-service options. Low priority.",0
+109,2025-05-08,"We need to onboard 300 users by next quarter. Budget allocated.",1
+110,2025-04-02,"Would like to see integrations list. Possibly later.",0
+111,2025-03-20,"We plan a vendor decision in 2 weeks and need demos.",1
+112,2025-02-11,"Curious about your API. No purchase planned.",0
+113,2025-01-27,"We need enterprise-grade support and replication. Budget confirmed.",1
+114,2025-11-11,"Can you provide pricing for 500 seats? Decision this month.",1
+115,2025-10-24,"Looking for a partner on a small project. Low budget.",0
+116,2025-10-13,"Need migration estimates and data import support. Budget set.",1
+117,2025-09-15,"We plan a rollout next year; gathering options now.",0
+118,2025-08-06,"We need analytics, retention, and SSO. Budget $40k.",1
+119,2025-07-05,"Looking for documentation and demo; timeline unclear.",0
+120,2025-06-14,"We require enterprise collaboration and file sync. Decision in 3 weeks.",1
+121,2025-05-01,"Small company, evaluating low-cost options.",0
+122,2025-04-14,"We need guaranteed uptime and support. Budget approved.",1
+123,2025-03-03,"We want to compare features across vendors. Not ready.",0
+124,2025-02-06,"We are procuring tools for 2026 roadmap. Interested in pilot.",0
+125,2025-01-12,"We are ready to switch platforms this quarter. Need quotation.",1
+126,2025-11-12,"We need integration with our billing system. Timeline urgent.",1
+127,2025-10-17,"Interested but no funds allocated yet.",0
+128,2025-09-06,"We require encryption-at-rest and compliance. Budget set.",1
+129,2025-08-01,"Requesting brochure and pricing. Low intent.",0
+130,2025-07-18,"We want a demo and PoC for our sales team. Budget allocated.",1
+131,2025-06-06,"Exploring vendors for later adoption. No current budget.",0
+132,2025-05-16,"We need onboarding and migration by Q3. Budget approved.",1
+133,2025-04-04,"Small pilot interest. Might buy after PoC.",0
+134,2025-03-07,"Procurement ready. Need SLA and pricing for 250 users.",1
+135,2025-02-01,"Interested in community features. No timeline.",0
+136,2025-01-03,"We have funds for enterprise tools. Send a proposal.",1
+137,2025-11-13,"We need vendor references and security docs. We'll proceed if OK.",1
+138,2025-10-09,"Asking about feature parity. Not urgent.",0
+139,2025-09-01,"We need a solution within 4 weeks. Budget available.",1
+140,2025-08-11,"Testing free tiers across vendors. No purchase yet.",0
+141,2025-07-02,"We require advanced reporting and integrations. Proposal requested.",1
+142,2025-06-02,"We're early-stage and low budget. Collecting options.",0
+143,2025-05-04,"Need vendor to support scale for 1M users. Budget allocated.",1
+144,2025-04-08,"General info request—no decision yet.",0
+145,2025-03-14,"Ready to sign a contract if support and compliance are verified.",1
+146,2025-02-10,"Curious about onboarding; may consider later.",0
+147,2025-01-18,"We need a feature comparison and pricing for enterprise plan.",1
+148,2025-11-14,"We have a $25k budget for CRM integrations. Need proposal.",1
+149,2025-10-01,"Looking for consulting services. No purchase timeline.",0
+150,2025-09-05,"We want a full migration and data import service. Budget approved.",1
+151,2025-08-16,"Interested in sandbox access. Will decide later.",0
+152,2025-07-10,"We want to integrate your lead capture; can start next week.",1
+153,2025-06-24,"We need multi-region support and compliance. Budget set.",1
+154,2025-05-06,"Looking for pricing tiers, no urgency.",0
+155,2025-04-18,"We need staging environment and SSO. Procurement next quarter.",0
+156,2025-03-01,"We can allocate budget for enterprise plan. Need quotes.",1
+157,2025-02-20,"Exploring features for roadmap. Not ready to buy.",0
+158,2025-01-06,"We have an RFP and need your response by next week. Budget available.",1
+159,2025-11-15,"We plan a company-wide rollout. Need pricing and migration schedule.",1
+160,2025-10-06,"Curious about integrations. Small team.",0
+161,2025-09-12,"We need an enterprise contract and training. Ready to proceed.",1
+162,2025-08-03,"We want to schedule an architecture review. Budget available.",1
+163,2025-07-26,"Requesting trial for 2 weeks. Possibly later purchase.",0
+164,2025-06-08,"Ready to pilot lead scoring for 3 months. Budget allocated.",1
+165,2025-05-20,"Asking for documentation. No immediate plans.",0
+166,2025-04-02,"We are consolidating vendors and want a procurement quote.",1
+167,2025-03-09,"Looking for a partner for 6-month pilot. Decision soon.",1
+168,2025-02-04,"Just comparing features for now.",0
+169,2025-01-02,"We need SLA and 24/7 support. Procurement next week.",1
+170,2025-11-16,"We have an approved budget for CRM migration. Contact procurement.",1
+171,2025-10-02,"Interest in feature set; no budget yet.",0
+172,2025-09-20,"We require enterprise-grade encryption and audit logs. Budget set.",1
+173,2025-08-07,"Requesting brochures. Low priority.",0
+174,2025-07-06,"We need dedicated support and onboarding. Ready to sign.",1
+175,2025-06-20,"Exploring cheap SaaS options. No immediate purchase.",0
+176,2025-05-12,"We want to trial lead routing and scoring. Budget confirmed.",1
+177,2025-04-26,"Please send compliance documents and pricing. Decision in 2 weeks.",1
+178,2025-03-01,"Small trial interest. No budget yet.",0
+179,2025-02-08,"We need pricing for 120 seats. Procurement this month.",1
+180,2025-01-09,"Looking for longterm partner for CRM. Budget available.",1
+181,2025-11-05,"We want to pilot with one team for 60 days. Budget small.",0
+182,2025-10-04,"Need to confirm data residency options. May proceed.",0
+183,2025-09-03,"We require high-availability cluster support. Budget approved.",1
+184,2025-08-13,"Curious about free tier limits. Not ready to buy.",0
+185,2025-07-03,"We need enterprise reporting and integrations. Quotes requested.",1
+186,2025-06-04,"General info needed for internal review.",0
+187,2025-05-14,"We have funds and want a demo this week. Decision-maker present.",1
+188,2025-04-07,"Exploring options for integration partners. No commitment.",0
+189,2025-03-16,"We want to migrate 400 users in Q1. Need a plan and quote.",1
+190,2025-02-16,"Interested in analytics and routing. Budget TBD.",0
+191,2025-01-15,"We need a fast implementation; procurement approved.",1
+192,2025-11-01,"Looking at multiple vendors for later adoption.",0
+193,2025-10-08,"We need a quote for 200 seats. Decision within 2 weeks.",1
+194,2025-09-07,"Asking about SLAs and uptime. May decide later.",0
+195,2025-08-20,"We need custom reporting and analytics. Budget available.",1
+196,2025-07-08,"Requesting demo video. No immediate budget.",0
+197,2025-06-07,"We need vendor references and PCI compliance. Ready to proceed.",1
+198,2025-05-01,"We want to evaluate options for next fiscal year. No immediate buy.",0
+199,2025-04-01,"We have an urgent need for lead routing. Budget allocated.",1
+200,2025-03-01,"Exploratory email—may revisit later.",0
+

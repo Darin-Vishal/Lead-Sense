@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#000000] text-[#8A8A8A] font-sans tracking-tight antialiased;
+  }
+}
+
+.glass-panel {
+  @apply bg-[#050505] backdrop-blur-md border border-[#121212] rounded-2xl shadow-none shadow-black/20;
+}
+
+.progress-fill {
+  transition: width 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
